@@ -1,5 +1,14 @@
 # API Alchemist
 
+TEAM NAME:ORCAS
+Name       Role       Username
+
+Tarun      Backend    Tarun11-ux-ui
+
+Swaranjan  Backend    swaranjansingh
+
+Swati      Frontend    swatiraghav-ai
+
 API Alchemist is a visual no-code API builder with a React frontend and a FastAPI backend. You design a workflow on a canvas, deploy it, and the app turns that flow into a live `POST` endpoint.
 
 Each deployed workflow keeps version history, request logs, basic usage stats, optional API-key protection, and auto-generated request details for testing from the UI.
